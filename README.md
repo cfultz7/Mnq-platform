@@ -1,0 +1,2 @@
+# Mnq-platform
+bomboclatt
